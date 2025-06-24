@@ -13,7 +13,7 @@ public class Cuadratica
     [XmlIgnore]
     [JsonIgnore]
     public double c { get; set; }
-[XmlIgnore]
+    [XmlIgnore]
     [JsonIgnore]
     public bool? XML { get; set; } 
 
